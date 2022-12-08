@@ -16,7 +16,7 @@ bokeh==0.12.10
 boto==2.48.0
 Bottleneck==1.2.1
 CacheControl==0.12.3
-certifi==2018.1.18
+certifi==2022.12.7
 cffi==1.10.0
 chainer==3.3.0
 chardet==3.0.4
